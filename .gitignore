@@ -205,6 +205,13 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# HR / employee data exports (sensitive)
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.tsv
+
 # Ruff stuff:
 .ruff_cache/
 
